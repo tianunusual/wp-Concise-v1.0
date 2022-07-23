@@ -14,7 +14,7 @@ PS:</br>
 DEMO：https://titti.cn</br></br>
 AD:聚合登录接入：https://open.titti.cn/</br></br>
 
-【QQ】：1295917573（限制查找了，可以加群）</br>
+【QQ】：8003371</br>
 【博客】：https://titti.cn/</br>
 【TG群】：https://t.me/titti_cn</br>
 【QQ群】：123402033</br>
