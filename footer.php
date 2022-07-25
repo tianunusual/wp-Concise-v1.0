@@ -50,10 +50,5 @@
 	</div>
 </footer>
 <?php wp_footer(); ?>
-<!----站长统计和播放器开始---->
-<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
-<script>LA.init({id: "JfZEtIy7Qn87dZm2",ck: "JfZEtIy7Qn87dZm2"})</script>
-<script src="https://myhkw.cn/api/player/164432402173" id="myhk" key="164432402173" m="1"></script>
-<!----站长统计和播放器结束---->
 </body>
 <html>
