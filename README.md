@@ -16,5 +16,5 @@ AD:聚合登录接入：https://open.titti.cn/</br></br>
 
 【QQ】：8003371</br>
 【博客】：https://titti.cn/</br>
-【TG群】：https://t.me/titti_cn</br>
+【TG群】：https://t.me/Aboutdow</br>
 【QQ群】：123402033</br>
