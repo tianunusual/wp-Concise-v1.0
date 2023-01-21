@@ -11,10 +11,9 @@ PS:</br>
 
 能力有限，功能不多；勿喷</br>
 ------------------
-DEMO：https://titti.cn</br></br>
-AD:聚合登录接入：https://open.titti.cn/</br></br>
 
-【QQ】：8003371</br>
-【博客】：https://titti.cn/</br>
+
+【微博】：https://weibo.com/chinazcwl</br>
+【博客】：https://blog.eoole.cn/</br>
 【TG群】：https://t.me/Aboutdow</br>
 【QQ群】：123402033</br>
