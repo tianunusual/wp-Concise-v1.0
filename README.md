@@ -13,7 +13,8 @@ PS:</br>
 ------------------
 
 
-【微博】：https://weibo.com/chinazcwl</br>
-【博客】：https://blog.eoole.cn/</br>
-【TG群】：https://t.me/Aboutdow</br>
-【QQ群】：123402033</br>
+【DEMO】：https://kwai.eoole.cn/</br>
+【BLOG】：https://blog.eoole.cn/</br>
+【TG Group】：https://t.me/adultdow</br>
+【QQ Group】：123402033</br>
+
