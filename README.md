@@ -15,6 +15,6 @@ PS:</br>
 
 【DEMO】：https://kwai.eoole.cn/</br>
 【BLOG】：https://blog.eoole.cn/</br>
-【TG Group】：https://t.me/adultdow</br>
+【TG Group】：[https://t.me/adultdow](https://t.me/preoole)</br>
 【QQ Group】：123402033</br>
 
