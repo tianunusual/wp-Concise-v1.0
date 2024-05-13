@@ -6,7 +6,7 @@ WordPress个人博客主题，简约博客全宽排版
 
 ------------------
 PS:</br>
-1.基于php7.4环境下开发，可能不适于7.4以上环境</br>
+1.基于php7.4环境下开发，可能不适于7.4+</br>
 2.侧边栏插件在小工具里面，主题设置里可以设置自定义图片背景。</br>
 
 能力有限，功能不多；勿喷</br>
@@ -34,7 +34,7 @@ PS:</br>
 
 ---
 
-> [@Blog](https://blog.uidian.net) · [@Google](https://www.9t.ee) · [@网盘列表](https://drive.upan.ee) · 
+> [@Blog](https://blog.mc.ci) · [@Google](https://www.9t.ee) · [@server](https://dn.mc.ci/server.html) · 
 
 ### Support it
 
