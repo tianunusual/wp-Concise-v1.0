@@ -28,9 +28,9 @@ PS:</br>
 ### belongs to us
 
 - *.9t.ee
-- *.upan.ee
-- *.ane.ee
-- *.uidian.net
+- *.mc.ci
+- *.5h.hk
+- *.ne.no
 
 ---
 
