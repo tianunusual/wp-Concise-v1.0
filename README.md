@@ -15,7 +15,7 @@ PS:</br>
 ### Contact Me
 - E-mail：about@xk.ee
 - Telegram：[@hi_mcc](https://t.me/hi_foxm)
-- Twitter：[@doogluo](https://twitter.com/doogluo)
+- Twitter：[@消失的狐狸菌](https://x.com/hi_foxm)
 - GitHub：[@消失的狐狸菌](https://github.com/tianunusual)
 
 ### My group chat
@@ -34,3 +34,4 @@ PS:</br>
 ---
 
 > [@Blog](https://blog.xk.ee/) · [@OSS列表](https://buck.mc.ci) · 
+
