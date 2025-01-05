@@ -16,7 +16,7 @@ PS:</br>
 - E-mail：about@mc.ci
 - Telegram：[@hi_mcc](https://t.me/hi_mcc)
 - Twitter：[@doogluo](https://twitter.com/doogluo)
-- GitHub：[@李木晚晚晚晚](https://github.com/tianunusual)
+- GitHub：[@消失的狐狸菌](https://github.com/tianunusual)
 
 ### My group chat
 
