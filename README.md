@@ -1,6 +1,6 @@
 # wp-Concise-v1.0
 WordPress个人博客主题，简约博客全宽排版
-<img src="https://dn.mc.ci/image/github/wp-Concise-v1.0.jpg"/>
+<img src="https://apac.ele.cm/Github/image/wp-Concise-v1.0.jpg"/>
 
 这个模板不算是个完美的作品，因为本人技术有限比较菜；如果有任何不好的地方你可以指出，但请键盘侠手下留情；本来不准备自己写的，毕竟技术不到家
 
