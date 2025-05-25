@@ -14,8 +14,8 @@ PS:</br>
 --------------------------------------------------------------------
 ### Contact Me
 - E-mail：about@xk.ee
-- Telegram：[@hi_mcc](https://t.me/hi_foxm)
-- Twitter：[@消失的狐狸菌](https://x.com/hi_foxm)
+- Telegram：[@Jun_disappear](https://t.me/@Jun_disappear)
+- Twitter：[@消失的狐狸菌](https://x.com/Jun_disappear)
 - GitHub：[@消失的狐狸菌](https://github.com/tianunusual)
 
 ### My group chat
@@ -25,13 +25,11 @@ PS:</br>
 
 ### belongs to us
 
-- *.9t.ee
-- *.mc.ci
 - *.xk.ee
-- *.005**1.xyz
-- *.001**1.xyz
-
+- *.ele.cm
+- *.ku.kg
+- *.douke.org
 ---
 
-> [@Blog](https://blog.xk.ee/) · [@OSS列表](https://buck.mc.ci) · 
+> [@Blog](https://blog.xk.ee/) · [@OIPPA列表](https://list.xk.ee) · 
 
