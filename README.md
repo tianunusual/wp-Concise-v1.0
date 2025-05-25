@@ -14,7 +14,7 @@ PS:</br>
 --------------------------------------------------------------------
 ### Contact Me
 - E-mail：about@xk.ee
-- Telegram：[@Jun_disappear](https://t.me/@Jun_disappear)
+- Telegram：[@Jun_disappear](https://t.me/Jun_disappear)
 - Twitter：[@消失的狐狸菌](https://x.com/Jun_disappear)
 - GitHub：[@消失的狐狸菌](https://github.com/tianunusual)
 
