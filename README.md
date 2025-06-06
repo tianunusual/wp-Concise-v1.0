@@ -51,8 +51,9 @@ PS:</br>
 ### belongs to us
 
 - *.xk.ee
-- *.ele.cm
+- *.ku.cm
 - *.ku.kg
+- *.ele.cm
 - *.douke.org
 ---
 
