@@ -1,6 +1,6 @@
 # wp-Concise-v1.0
 WordPress个人博客主题，简约博客全宽排版
-<img src="https://apac.ele.cm/Github/image/wp-Concise-v1.0.jpg"/>
+<img src="https://i.ku.cm/github/image/wp-Concise-v1.0.jpg"/>
 
 这个模板不算是个完美的作品，因为本人技术有限比较菜；如果有任何不好的地方你可以指出，但请键盘侠手下留情；本来不准备自己写的，毕竟技术不到家
 
@@ -57,7 +57,7 @@ PS:</br>
 - *.douke.org
 ---
 
-> [@Blog](https://blog.xk.ee/) · [@OIPPA列表](https://list.ele.cm) · 
+> [@Blog](https://blog.xk.ee/) · [@IPPA列表](https://list.ele.cm) · 
 
 <h2>😊、Sponsored Advertising<h2>
-<a href="https://app.cloudcone.com/?ref=7733" target="_blank"><img src="https://apac.ele.cm/cloudcone_banner.gif" style="width:1200px; height:100px;" /></a>
+<a href="https://app.cloudcone.com/?ref=7733" target="_blank"><img src="https://i.ku.cm/github/image/cloudcone_banner.gif" style="width:1200px; height:100px;" /></a>
