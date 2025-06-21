@@ -57,5 +57,7 @@ PS:</br>
 - *.douke.org
 ---
 
-> [@Blog](https://blog.xk.ee/) · [@OIPPA列表](https://list.xk.ee) · 
+> [@Blog](https://blog.xk.ee/) · [@OIPPA列表](https://list.ele.cm) · 
 
+<h2>😊、Sponsored Advertising<h2>
+<a href="https://app.cloudcone.com/?ref=7733" target="_blank"><img src="https://apac.ele.cm/cloudcone_banner.gif" style="width:1200px; height:100px;" /></a>
